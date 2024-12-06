@@ -8,7 +8,9 @@ tags: baseball football hockey
 
 ## Detroit Lions
 
-[[lions.html]]
+[[]]
+**[​[**​Comparison based on accomplishment does not have a baseline**]]**
+>
 
 ## Detroit Tigers
 
