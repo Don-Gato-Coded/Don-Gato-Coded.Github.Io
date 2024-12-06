@@ -7,15 +7,7 @@ tags: baseball football hockey
 
 
 ## [[Detroit Lions]]
-
-[[Detroit Lions]]
-**[​[**​Comparison based on accomplishment does not have a baseline**]]**
->
-
-## Detroit Tigers
-
-## Detroit Pistons 
-
-## Detroit Red Wings
-
-## Michigan Wolverines
+## [[Detroit Tigers]]
+## [[Detroit Pistons]] 
+## [[Detroit Red Wings]]
+## [[Michigan Wolverines]]
