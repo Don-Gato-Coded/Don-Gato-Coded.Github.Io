@@ -7,8 +7,8 @@ tags: baseball football hockey
 
 
 ## Detroit Lions
-[//]: #  [lions](/posts/lions.html) 
-[[lions]]
+
+[[lions.html]]
 
 ## Detroit Tigers
 
